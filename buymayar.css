@@ -1,0 +1,27 @@
+html {
+    background-color: olive;
+}
+
+body {
+    width: 600px;
+    margin: 1em auto;
+    background-color: mintcream;
+    border: 10px purple;
+    padding: 0.5em;
+}
+
+hr {
+    width: 90%;
+    border: 1px purple;
+}
+
+h1,
+h2 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+input[type="submit"] {
+    font-size: 2em;
+    width: 100%;
+}
